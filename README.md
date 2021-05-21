@@ -5,7 +5,7 @@
 - [Como funciona](#-como-funciona)
 - [Considerações pessoais](#-considerações-pessoais)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Como baixar o projeto](#-como-jogar)
 ## 🔖 Sobre
 O projeto BrasFoot CP2 é uma versão alternativa do jogo BrasFoot. Feito por mim e por meus amigos de escola, o projeto era um trabalho para colocar em prática as tecnologias aprendidas no segundo ano do ensino médio integrado com  o curso técnico em desenvolvimento de sistemas no Colégio Pedro II, que todos nós cursávamos.
 ## 🛠 Como funciona
